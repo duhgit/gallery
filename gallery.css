@@ -43,6 +43,12 @@ header{
     box-sizing: border-box;
   }
 
+  img:hover{
+    cursor: pointer;
+    height: 280px;
+    width: 400px;
+  }
+
 
   
 
